@@ -1,6 +1,6 @@
 # body-mass-index
-Enter your height in centimeters: 180
-Enter your Weight in Kg: 67
+*Enter your height in centimeters: 180
+* nter your Weight in Kg: 67
 your Body Mass Index is:  20.679012345679013
 you are Healthy
 
